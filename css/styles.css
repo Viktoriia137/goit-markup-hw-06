@@ -1126,7 +1126,7 @@ width: 264px;
   }
 
   .our-team-item {
-    width: calc(100%- (24px * 3) / 4);
+    width: calc(100% - (24px * 3) / 4);
   }
 
   .portf-list {
